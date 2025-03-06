@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=0.8.0
+Type=Application
+Categories=Game;Strategy;
+Name=The Ur-Quan Masters
+Exec=uqm.sh
+Icon=icon.png
+
+[Package Entry]
+Id=uqm_maquis196
+Name=The Ur-Quan Masters
+Arch=armhf
+Exec=uqm.sh
+Version=0.8.0
+Appdata=urquan_masters
+Icon=icon.png
