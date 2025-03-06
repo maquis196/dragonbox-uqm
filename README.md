@@ -1,6 +1,8 @@
 # dragonbox-uqm
 The Ur-Quan Masters release repository for Pandora and Pyra Handhelds
 
+# Pyra Repo link is https://pyra-handheld.com/repo/apps/333
+
 ## Datafiles
 
 Included in the release is the following;
